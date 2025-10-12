@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>A3._1._6_Estaciones</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Assets\sun.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\invierno.jpg" />
+    <None Remove="Assets\otoño.jpg" />
+    <None Remove="Assets\primavera.jpg" />
+    <None Remove="Assets\sun.ico" />
+    <None Remove="Assets\verano.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\sun.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\invierno.jpg" />
+    <Resource Include="Assets\otoño.jpg" />
+    <Resource Include="Assets\primavera.jpg" />
+    <Resource Include="Assets\verano.jpg" />
+  </ItemGroup>
+
+</Project>

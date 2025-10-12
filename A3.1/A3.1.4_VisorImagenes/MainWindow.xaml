@@ -1,0 +1,74 @@
+﻿<Window x:Class="A3._1._4_VisorImagenes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A3._1._4_VisorImagenes"
+        mc:Ignorable="d"
+        Title="Visor de imagenes" Height="600" Width="800">
+    
+    <DockPanel>
+        <DockPanel DockPanel.Dock="Bottom"
+           Background="LightBlue"
+           Height="50"
+           Margin="5">
+            
+            <TextBlock Text="Nº de imágenes: 10"
+               FontFamily="Rubik"
+               FontSize="20"
+               VerticalAlignment="Center"
+               Margin="15,0,0,0"/>
+            <TextBlock Text="Diseñado por Javier Catalá"
+               FontFamily="Rubik"
+               FontSize="20"
+               VerticalAlignment="Center"
+               HorizontalAlignment="Right"
+               Margin="0,0,15,0"/>
+        </DockPanel>
+        
+        <Border DockPanel.Dock="Right"
+        BorderBrush="Black"
+        BorderThickness="3"
+        CornerRadius="3"
+        Margin="5">
+            <DockPanel Background="LightGreen">
+
+                <StackPanel DockPanel.Dock="Top"
+                    Margin="5"
+                    VerticalAlignment="Top">
+                    <Button Content="Añadir imagen" Margin="5" Padding="5"/>
+                    <Button Content="Eliminar imagen" Margin="5" Padding="5"/>
+                    <Button Content="Eliminar todas" Margin="5" Padding="5"/>
+                </StackPanel>
+
+                <StackPanel DockPanel.Dock="Bottom"
+                    Margin="5"
+                    VerticalAlignment="Bottom">
+                    <Button Content="Rotar" Margin="5" Padding="5"/>
+                    <Button Content="Recortar" Margin="5" Padding="5"/>
+                </StackPanel>
+            </DockPanel>
+        </Border>
+        
+        <TextBlock DockPanel.Dock="Top"
+                   Text="Visor de imágenes"
+                   FontFamily="Rubik"
+                   FontSize="40"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   Margin="10"/>
+
+        <WrapPanel x:Name="panelImagenes"
+                       HorizontalAlignment="Center"
+                       Margin="10">
+            <Image Source="Assets/episodioIV.jpg" Width="150" Height="200" Margin="5"/>
+            <Image Source="Assets/episodioIV.jpg" Width="150" Height="200" Margin="5"/>
+            <Image Source="Assets/episodioIV.jpg" Width="150" Height="200" Margin="5"/>
+            <Image Source="Assets/episodioIV.jpg" Width="150" Height="200" Margin="5"/>
+            <Image Source="Assets/episodioIV.jpg" Width="150" Height="200" Margin="5"/>
+            <Image Source="Assets/episodioIV.jpg" Width="150" Height="200" Margin="5"/>
+            <Image Source="Assets/episodioIV.jpg" Width="150" Height="200" Margin="5"/>
+            <Image Source="Assets/episodioIV.jpg" Width="150" Height="200" Margin="5"/>
+        </WrapPanel>
+    </DockPanel>
+</Window>

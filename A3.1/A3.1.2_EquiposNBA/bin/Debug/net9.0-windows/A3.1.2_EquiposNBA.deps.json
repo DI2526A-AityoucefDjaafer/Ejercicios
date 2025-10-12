@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "A3.1.2_EquiposNBA/1.0.0": {
+        "runtime": {
+          "A3.1.2_EquiposNBA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A3.1.2_EquiposNBA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
