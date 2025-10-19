@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3.2.1_FormularioStackPanel_Estilo", "A3.2.1_FormularioStackPanel_Estilo\A3.2.1_FormularioStackPanel_Estilo.csproj", "{4AFF0240-731D-4065-944E-DA74A3EA8DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3.2.2_EquiposNBA_Estilo", "A3.2.2_EquiposNBA_Estilo\A3.2.2_EquiposNBA_Estilo.csproj", "{D5E400F5-9CC3-46BF-BBC5-82F85F72DE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3.2.3_VisorImagenes_Estilo", "A3.2.3_VisorImagenes_Estilo\A3.2.3_VisorImagenes_Estilo.csproj", "{9D8117F9-924A-4534-8553-07D1C39F1C20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3.2.4_Calculadora_Estilo", "A3.2.4_Calculadora_Estilo\A3.2.4_Calculadora_Estilo.csproj", "{67308A37-BD9B-4FA3-B947-9DDD97DA6019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3.2.6_Calculadora_Dinamica", "A3.2.6_Calculadora_Dinamica\A3.2.6_Calculadora_Dinamica.csproj", "{0A9EA0FC-0CE7-403A-AF05-4CCD5585B829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AFF0240-731D-4065-944E-DA74A3EA8DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFF0240-731D-4065-944E-DA74A3EA8DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFF0240-731D-4065-944E-DA74A3EA8DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFF0240-731D-4065-944E-DA74A3EA8DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E400F5-9CC3-46BF-BBC5-82F85F72DE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E400F5-9CC3-46BF-BBC5-82F85F72DE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E400F5-9CC3-46BF-BBC5-82F85F72DE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E400F5-9CC3-46BF-BBC5-82F85F72DE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8117F9-924A-4534-8553-07D1C39F1C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8117F9-924A-4534-8553-07D1C39F1C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8117F9-924A-4534-8553-07D1C39F1C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8117F9-924A-4534-8553-07D1C39F1C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67308A37-BD9B-4FA3-B947-9DDD97DA6019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67308A37-BD9B-4FA3-B947-9DDD97DA6019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67308A37-BD9B-4FA3-B947-9DDD97DA6019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67308A37-BD9B-4FA3-B947-9DDD97DA6019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9EA0FC-0CE7-403A-AF05-4CCD5585B829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9EA0FC-0CE7-403A-AF05-4CCD5585B829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9EA0FC-0CE7-403A-AF05-4CCD5585B829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9EA0FC-0CE7-403A-AF05-4CCD5585B829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA48C95-33D5-4907-9CE3-E6EB7951E3C7}
+	EndGlobalSection
+EndGlobal

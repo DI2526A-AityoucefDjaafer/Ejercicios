@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DINT\\A3.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9EA0FC-0CE7-403A-AF05-4CCD5585B829}|A3.2.6_Calculadora_Dinamica\\A3.2.6_Calculadora_Dinamica.csproj|d:\\dint\\a3.2\\a3.2.6_calculadora_dinamica\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A9EA0FC-0CE7-403A-AF05-4CCD5585B829}|A3.2.6_Calculadora_Dinamica\\A3.2.6_Calculadora_Dinamica.csproj|solutionrelative:a3.2.6_calculadora_dinamica\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\DINT\\A3.2\\A3.2.6_Calculadora_Dinamica\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "A3.2.6_Calculadora_Dinamica\\MainWindow.xaml",
+              "ToolTip": "D:\\DINT\\A3.2\\A3.2.6_Calculadora_Dinamica\\MainWindow.xaml",
+              "RelativeToolTip": "A3.2.6_Calculadora_Dinamica\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T14:31:41.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
