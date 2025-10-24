@@ -1,0 +1,75 @@
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.exe
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\Assets\smile.ico
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.deps.json
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.runtimeconfig.json
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.dll
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.pdb
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_Content.g.cs
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_MarkupCompile.cache
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_MarkupCompile.lref
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.g.resources
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.AssemblyInfo.cs
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.dll
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\refint\A4.1_MemeMaker.dll
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.pdb
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.genruntimeconfig.cache
+C:\Users\manue\source\repos\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\ref\A4.1_MemeMaker.dll
+D:\c2025-26_DAM2-INT\7.- Contenidos-DIN\U4.__Enlace datos-interfaz (binding)\4.- Actividades\A4.1_BindingEntreControles\1.- Enunciado\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\c2025-26_DAM2-INT\7.- Contenidos-DIN\U4.__Enlace datos-interfaz (binding)\4.- Actividades\A4.1_BindingEntreControles\1.- Enunciado\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\App.g.cs
+D:\c2025-26_DAM2-INT\7.- Contenidos-DIN\U4.__Enlace datos-interfaz (binding)\4.- Actividades\A4.1_BindingEntreControles\1.- Enunciado\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_Content.g.cs
+D:\c2025-26_DAM2-INT\7.- Contenidos-DIN\U4.__Enlace datos-interfaz (binding)\4.- Actividades\A4.1_BindingEntreControles\1.- Enunciado\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_MarkupCompile.cache
+D:\c2025-26_DAM2-INT\7.- Contenidos-DIN\U4.__Enlace datos-interfaz (binding)\4.- Actividades\A4.1_BindingEntreControles\1.- Enunciado\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_MarkupCompile.lref
+D:\c2025-26_DAM2-INT\7.- Contenidos-DIN\U4.__Enlace datos-interfaz (binding)\4.- Actividades\A4.1_BindingEntreControles\1.- Enunciado\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.dll
+D:\c2025-26_DAM2-INT\7.- Contenidos-DIN\U4.__Enlace datos-interfaz (binding)\4.- Actividades\A4.1_BindingEntreControles\1.- Enunciado\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\refint\A4.1_MemeMaker.dll
+D:\c2025-26_DAM2-INT\7.- Contenidos-DIN\U4.__Enlace datos-interfaz (binding)\4.- Actividades\A4.1_BindingEntreControles\1.- Enunciado\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.pdb
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.exe
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\Assets\smile.ico
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.deps.json
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.dll
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.pdb
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_Content.g.cs
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_MarkupCompile.cache
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_MarkupCompile.lref
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.g.resources
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.dll
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\refint\A4.1_MemeMaker.dll
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.pdb
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\0_Lab6\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\ref\A4.1_MemeMaker.dll
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.exe
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\Assets\smile.ico
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.deps.json
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.runtimeconfig.json
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.dll
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\bin\Debug\net9.0-windows\A4.1_MemeMaker.pdb
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_Content.g.cs
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_MarkupCompile.cache
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker_MarkupCompile.lref
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.g.resources
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.AssemblyInfoInputs.cache
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.AssemblyInfo.cs
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.dll
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\refint\A4.1_MemeMaker.dll
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.pdb
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\A4.1_MemeMaker.genruntimeconfig.cache
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\ref\A4.1_MemeMaker.dll
+C:\Users\alumno\Downloads\A4.1_MemeMaker\A4.1_MemeMaker\A4.1_MemeMaker\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
